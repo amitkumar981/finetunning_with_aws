@@ -1,0 +1,11 @@
+ipykernel
+transformers
+datasets
+sagemaker
+boto3
+pandas
+cmake
+pyarrow
+bitsandbytes
+peft
+s3fs
